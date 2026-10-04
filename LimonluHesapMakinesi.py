@@ -82,11 +82,11 @@ while True:
                     sonuc = xx - yy
                 elif islem in ["*", ".", "x", "×"]:
                     sonuc = xx * yy
-                elif islem == ["**", "^", "..", "xx", "××"]:
+                elif islem in ["**", "^", "..", "xx", "××"]:
                     sonuc = xx ** yy
-                elif islem == ["/", ":", "÷"]:
+                elif islem in ["/", ":", "÷"]:
                     sonuc = xx / yy
-                elif islem == ["//", "::", "÷÷"]:
+                elif islem in ["//", "::", "÷÷"]:
                     sonuc = xx // yy
                 elif islem == "%":
                     sonuc = xx % yy
