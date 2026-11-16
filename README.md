@@ -1,2 +1,2 @@
 # EAL
-eal robotik kulübü için projelerim
+buradaki hesap makinesi çalışıyor sadece diğeri üzerinde çalıştığım bir proje daha bitmedi
